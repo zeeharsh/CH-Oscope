@@ -18,10 +18,3 @@ This Python project simulates how a simple fuel molecule (CH₂O) breaks down in
 - NumPy
 - Matplotlib
 
-## 🚀 Run It Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/chemical-reaction-simulator.git
-cd chemical-reaction-simulator
-pip install -r requirements.txt
-python simulator.py
